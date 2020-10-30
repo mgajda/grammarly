@@ -370,7 +370,7 @@
     "lodash.debounce": "^4.0.8",
     "memoize-one": "^5.1.1",
     "minimatch": "^3.0.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "reflect-metadata": "^0.1.13",
     "remark": "^12.0.0",
     "supports-color": "^7.1.0",
